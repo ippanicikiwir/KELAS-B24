@@ -1,0 +1,38 @@
+Sweet Gem Berry,1000,24,3000,Fall,single
+Blueberry,80,13,150,Summer,multiple
+Strawberry,100,8,120,Spring,multiple
+Starfruit,400,13,750,Summer,single
+Grape,60,10,80,Fall,multiple
+Red Cabbage,100,9,260,Summer,single
+Eggplant,20,5,60,Fall,multiple
+Pumpkin,100,13,320,Fall,single
+Artichoke,30,8,160,Fall,single
+Summer Squash,0,6,45,Summer,multiple
+Cranberries,240,7,75,Fall,multiple
+Melon,80,12,250,Summer,single
+Amaranth,70,7,150,Fall,single
+Beet,20,6,100,Fall,single
+Carrot,0,3,35,Spring,single
+Tomato,50,11,60,Summer,multiple
+Hot Pepper,40,5,40,Summer,multiple
+Rhubarb,100,13,220,Spring,single
+Green Bean,60,10,40,Spring,multiple
+Bok Choy,50,4,80,Fall,single
+Radish,40,6,90,Summer,single
+Yam,60,10,160,Fall,single
+Cauliflower,80,12,175,Spring,single
+Fairy Rose,200,12,290,Fall,single
+Kale,70,6,110,Spring,single
+Poppy,100,7,140,Summer,single
+Garlic,40,4,60,Spring,single
+Potato,50,6,80,Spring,single
+Summer Spangle,50,8,90,Summer,single
+Parsnip,20,4,35,Spring,single
+Wheat,10,4,25,Summer, Fall,single
+Corn,150,14,50,Summer, Fall,multiple
+Hops,50,11,25,Summer,multiple
+Blue Jazz,30,7,50,Spring,single
+Tulip,20,6,30,Spring,single
+Unmilled Rice,40,6,30,Spring,single
+Sunflower,200,8,80,Summer, Fall,single
+Coffee Bean,2500,10,60,Spring, Summer,multiple
