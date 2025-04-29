@@ -1,0 +1,38 @@
+0,0,0
+Yam,60,10,160,Fall,single|0|1|0||
+Wheat,10,4,25,Summer, Fall,single|0|1|0||
+Unmilled Rice,40,6,30,Spring,single|0|1|0||
+Tulip,20,6,30,Spring,single|0|1|0||
+Tomato,50,11,60,Summer,multiple|0|1|0||
+Sunflower,200,8,80,Summer, Fall,single|0|1|0||
+Summer Squash,0,6,45,Summer,multiple|0|1|0||
+Summer Spangle,50,8,90,Summer,single|0|1|0||
+Strawberry,100,8,120,Spring,multiple|0|1|0||
+Starfruit,400,13,750,Summer,single|0|1|0||
+Rhubarb,100,13,220,Spring,single|0|1|0||
+Red Cabbage,100,9,260,Summer,single|0|1|0||
+Radish,40,6,90,Summer,single|0|1|0||
+Pumpkin,100,13,320,Fall,single|0|1|0||
+Potato,50,6,80,Spring,single|0|1|0||
+Poppy,100,7,140,Summer,single|0|1|0||
+Parsnip,20,4,35,Spring,single|0|1|0||
+Melon,80,12,250,Summer,single|0|1|0||
+Kale,70,6,110,Spring,single|0|1|0||
+Hot Pepper,40,5,40,Summer,multiple|0|1|0||
+Hops,50,11,25,Summer,multiple|0|1|0||
+Green Bean,60,10,40,Spring,multiple|0|1|0||
+Grape,60,10,80,Fall,multiple|0|1|0||
+Garlic,40,4,60,Spring,single|0|1|0||
+Fairy Rose,200,12,290,Fall,single|0|1|0||
+Eggplant,20,5,60,Fall,multiple|0|1|0||
+Cranberries,240,7,75,Fall,multiple|0|1|0||
+Corn,150,14,50,Summer, Fall,multiple|0|1|0||
+Coffee Bean,2500,10,60,Spring, Summer,multiple|0|1|0||
+Cauliflower,80,12,175,Spring,single|0|1|0||
+Carrot,0,3,35,Spring,single|0|1|0||
+Bok Choy,50,4,80,Fall,single|0|1|0||
+Blueberry,80,13,150,Summer,multiple|0|1|0||
+Blue Jazz,30,7,50,Spring,single|0|1|0||
+Beet,20,6,100,Fall,single|0|1|0||
+Artichoke,30,8,160,Fall,single|0|1|0||
+Amaranth,70,7,150,Fall,single|0|1|0||
